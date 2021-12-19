@@ -6,7 +6,7 @@ output: html_document
 ---
 ##1.Loading and preprocessing the data
 ```{r,echo = TRUE}
-dataset1<-read.csv("activity.csv")
+dataset1<-read.csv("C://Users//sky//Desktop//datasciencecoursera//activity.csv")
 show(dataset1)
 ```
 ##2.What is mean total number of steps taken per day?
